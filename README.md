@@ -5,7 +5,7 @@
 Atuo como desenvolvedor desde 2017 e tenho como principal linguagem de programação o PHP.
 
 - 🌍  Sou do Brasil
-- ✉️  Você pode me contatar em [alessandro.samppaio@gmail.com](mailto:alessandro.samppaio@gmail.com)
+- ✉️  Entre em contato: [alessandro.samppaio@gmail.com](mailto:alessandro.samppaio@gmail.com)
 
 ## Skills atuais
 
